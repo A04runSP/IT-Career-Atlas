@@ -1,9 +1,5 @@
 # IT Career Atlas
 
-## 🌐 Live Website
-
-**[Open IT Career Atlas](https://it-career-atlas.netlify.app/)**
-
 IT Career Atlas is an interactive knowledge guide for people exploring technology careers. It is designed to explain **career domains, the roles inside them, required capabilities, technologies, workflows, AI involvement, learning paths and job readiness** in a structured way.
 
 ## 🎯 Core Experience
@@ -74,13 +70,9 @@ The interface is designed to feel calm, premium and editorial rather than like a
 - 🚫 No permanent navigation arrows
 - 💻 Keyboard and trackpad support on desktop
 
-The goal is **discoverability through interaction**, while still providing enough visual cues for first-time users.
-
 ## 🤖 AI Information Standard
 
 AI is presented as part of the modern workflow, not as a replacement for every human responsibility.
-
-The Atlas distinguishes between:
 
 | Mode | Meaning |
 |---|---|
@@ -102,8 +94,6 @@ Because this project is intended to help people make education and career decisi
 - Keep technology lists representative rather than pretending there is one universal stack.
 - Review fast-changing AI, cloud and security information periodically.
 - Prefer practical explanations over unexplained jargon.
-
-For cybersecurity terminology, the project uses the NIST NICE Framework as an important reference because it explicitly distinguishes work roles from jobs and occupations and organizes work using tasks, knowledge and skills.
 
 ## 📖 Reference Foundations
 
