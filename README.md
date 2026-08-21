@@ -1,5 +1,7 @@
 # IT Career Atlas
 
+> **🌐 Live Atlas:** https://it-career-atlas.vercel.app/
+
 IT Career Atlas is an interactive knowledge guide for people exploring technology careers. It is designed to explain **career domains, the roles inside them, required capabilities, technologies, workflows, AI involvement, learning paths and job readiness** in a structured way.
 
 ## 🎯 Core Experience
